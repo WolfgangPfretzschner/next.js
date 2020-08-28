@@ -6,7 +6,7 @@
   </a>
   <a aria-label="NPM version" href="https://www.npmjs.com/package/next">
     <img alt="" src="https://img.shields.io/npm/v/next.svg?style=for-the-badge&labelColor=000000">
-  </a>
+  </a> 
   <a aria-label="License" href="https://github.com/vercel/next.js/blob/canary/license.md">
     <img alt="" src="https://img.shields.io/npm/l/next.svg?style=for-the-badge&labelColor=000000">
   </a>
@@ -17,7 +17,7 @@
 
 ## Getting Started
 
-Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://nextjs.org/learn</a> to get started with Next.js.
+Visit this <a aria-label="next.js learn" href="https://nextjs.org/learn">https://nextjs.org/learn</a> to get started with Next.js.
 
 ## Documentation
 
